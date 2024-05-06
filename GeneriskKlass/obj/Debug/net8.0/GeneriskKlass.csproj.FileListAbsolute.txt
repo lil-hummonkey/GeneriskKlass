@@ -1,0 +1,14 @@
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\bin\Debug\net8.0\GeneriskKlass.exe
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\bin\Debug\net8.0\GeneriskKlass.deps.json
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\bin\Debug\net8.0\GeneriskKlass.runtimeconfig.json
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\bin\Debug\net8.0\GeneriskKlass.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\bin\Debug\net8.0\GeneriskKlass.pdb
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.AssemblyInfoInputs.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.AssemblyInfo.cs
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.csproj.CoreCompileInputs.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\refint\GeneriskKlass.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.pdb
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.genruntimeconfig.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\ref\GeneriskKlass.dll
