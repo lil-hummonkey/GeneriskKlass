@@ -1,41 +1,45 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-
+string name;
 bool shouldplay = true;
-while(true){
 
 
-Stack<string> myStack = new Stack<string>();
+while(shouldplay == true){
+
+//skapa lista för att hålla namn i sig
+List<string> myList = new List<string>();
 Console.WriteLine("write a name");
 string words = Console.ReadLine();
 
-myStack.Push(words);
+myList.Add(words);
 
 Console.WriteLine("write a name");
 string word2 = Console.ReadLine();
 
-myStack.Push(word2);
+myList.Add(word2);
 
-
-Console.WriteLine(myStack.Peek());
-
-Console.WriteLine("Do you like the first or second name more?");
-Console.WriteLine("Write FIRST if first");
+Console.WriteLine("Do you want to delete the first or second name??");
+Console.WriteLine("Write 1 if first");
 string Choice = Console.ReadLine();
 
-if(Choice == "FIRST")
+//i denna fall skapar en queue av listan som dequeuar efteråt (tar bort första stringen i queuen)
+if(Choice == "1")
 {
-    
-myStack.Pop();
-Console.WriteLine(myStack.Peek());
+    Queue<string> myQueue = new(myList);
+    myQueue.Dequeue();
+foreach (var d in myQueue) Console.WriteLine(d);
 }
+//i andra fall skapar en stack av listan som poppar efteråt (tar bort andra stringen i stacken)
+else 
+{
+Stack<string> myStack = new(myList);
+myStack.Pop();
+foreach (var p in myStack) Console.WriteLine(p);
+}
+//frågar om man vill spela igen
 
-else Console.WriteLine(myStack.Peek());
-
-// Precis som för queue, peekar "nästa värde". Det som ligger högst upp – 665.
-
-// Tar bort det som ligger högst upp i högen och returnerar det.
-// Så nu är bara 5 och 42 kvar i högen.
-
-Console.ReadLine();
+Console.WriteLine("Do you want to try again?");
+ string restart = Console.ReadLine();
+ if (restart == "no") shouldplay = false;
+ else shouldplay = true;
 }

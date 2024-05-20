@@ -12,3 +12,4 @@ c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8
 c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.pdb
 c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.genruntimeconfig.cache
 c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\ref\GeneriskKlass.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\GeneriskKlass\GeneriskKlass\obj\Debug\net8.0\GeneriskKlass.sourcelink.json
